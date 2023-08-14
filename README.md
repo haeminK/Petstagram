@@ -26,18 +26,18 @@ Frontend folder
 npm install
 npm run dev
 ```
-##Technologies
+## Technologies
 
-*Frontend:
+* Frontend:
   * React
   * React-Redux & Redux-Toolkit
   * React-Router
   * Axios
   * js-cookie
 
-*Backend:
-  *Express
-  *Mongoose & MongoDB
-  *bcryptjs
-  *jsonwebtoken
-  *multer
+* Backend:
+  * Express
+  * Mongoose & MongoDB
+  * bcryptjs
+  * jsonwebtoken
+  * multer
