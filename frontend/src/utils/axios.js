@@ -3,7 +3,7 @@ import Cookies from 'js-cookie';
 
 const axiosInstance = axios.create({
     baseURL: import.meta.env.PROD ?
-        '' : 'http://localhost:3000'
+        'https://petstagram-1-3q0x.onrender.com' : 'http://localhost:3000'
 });
 
 axiosInstance.interceptors.request.use(function (config) {
